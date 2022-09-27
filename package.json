@@ -1,0 +1,19 @@
+{
+  "name": "profile-card-component-",
+  "version": "1.0.0",
+  "description": "challenge frontdent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darwing0994/profile-card-component-.git"
+  },
+  "author": "Darwing chavez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darwing0994/profile-card-component-/issues"
+  },
+  "homepage": "https://github.com/Darwing0994/profile-card-component-#readme"
+}
